@@ -93,7 +93,7 @@ Disable TLS false start
 <b />
 <b />
 
-![image_alt](https://i.imgur.com/7nI5RsF.png)
+![image_alt](https://i.imgur.com/3VRGSeP.png)
 <br />
 <br />
 
